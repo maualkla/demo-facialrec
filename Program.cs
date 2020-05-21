@@ -15,8 +15,18 @@ namespace face_quickstart
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Adminde!");
+            // From your Face subscription in the Azure portal, get your subscription key and endpoint.
+            // Set your environment variables using the names below. Close and reopen your project for changes to take effect.
             string SUBSCRIPTION_KEY = Environment.GetEnvironmentVariable("FACE_SUBSCRIPTION_KEY");
             string ENDPOINT = Environment.GetEnvironmentVariable("FACE_ENDPOINT");
+        }
+        /*
+        *	AUTHENTICATE
+        *	Uses subscription key and region to create a client.
+        */
+        public static IFaceClient Authenticate(string endpoint, string key)
+        {
+            return new FaceClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint };
         }
     }
 }
