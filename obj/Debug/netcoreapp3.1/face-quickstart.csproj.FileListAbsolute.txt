@@ -1,0 +1,13 @@
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.exe
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.deps.json
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.runtimeconfig.json
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.runtimeconfig.dev.json
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.dll
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\bin\Debug\netcoreapp3.1\face-quickstart.pdb
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.csprojAssemblyReference.cache
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.AssemblyInfo.cs
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.dll
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.pdb
+C:\Users\mauri\Documents\Proyectos\proyectos.asi\MUDEV\Adminde - Root\Adminde - Proyect\Adminde - Prototypes\face-quickstart\obj\Debug\netcoreapp3.1\face-quickstart.genruntimeconfig.cache
