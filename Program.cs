@@ -15,6 +15,7 @@ namespace face_quickstart
         // Used for all examples.
         // URL for the images.
         const string IMAGE_BASE_URL = "https://csdx.blob.core.windows.net/resources/Face/Images/";
+        static string sourcePersonGroup = null;
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Adminde!");
@@ -192,6 +193,12 @@ namespace face_quickstart
             // Find a similar face(s) in the list of IDs. Comapring only the first in list for testing purposes.
             IList<SimilarFace> similarResults = await client.Face.FindSimilarAsync(detectedFaces[0].FaceId.Value, null, null, targetFaceIds);
             
+            foreach (var similarResult in similarResults)
+            {
+                Console.WriteLine($"Faces from {sourceImageFileName} & ID:{similarResult.FaceId} are similar with confidence: {similarResult.Confidence}.");
+            }
+            Console.WriteLine();
+
         }       
     }
 }
